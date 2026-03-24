@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "28d4f221-b362-4cf3-a1ff-151ee568e3ae",
+		"name": "roulette",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28141039",
+		"_collection_link": "https://solar-equinox-849336.postman.co/workspace/MyMatkaServer~4f2a6477-6fc1-43ce-bbee-7bcf852ea079/collection/28141039-28d4f221-b362-4cf3-a1ff-151ee568e3ae?action=share&source=collection_link&creator=28141039"
+	},
+	"item": [
+		{
+			"name": "app",
+			"item": [
+				{
+					"name": "markets",
+					"item": [
+						{
+							"name": "get roulette results",
+							"request": {
+								"auth": {
+									"type": "bearer",
+									"bearer": [
+										{
+											"key": "token",
+											"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtb2JpbGUiOiIwMDAwMDAwMDAwIiwiaWF0IjoxNzQ3ODI3MTg0fQ.gTwruYO1_f8542ku6Dj4hr3F70-W7nL1_hx0EfGrHaY",
+											"type": "string"
+										}
+									]
+								},
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "http://localhost:3777/markets/roulette_results?from=2025-05-28T00:00:00.000Z&to=2025-05-28T23:59:59.999Z",
+									"protocol": "http",
+									"host": [
+										"localhost"
+									],
+									"port": "3777",
+									"path": [
+										"markets",
+										"roulette_results"
+									],
+									"query": [
+										{
+											"key": "market",
+											"value": "682cb08253d9ecffe6e54025",
+											"disabled": true
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					],
+					"description": "markets that we will host he games and declare result"
+				}
+			]
+		}
+	]
+}

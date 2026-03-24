@@ -1,0 +1,363 @@
+[
+  {
+    "category": "technical",
+    "subCategories": [
+      {
+        "id": "tech_flutter",
+        "name": "flutter",
+        "questions": [
+          {
+            "id": "t1",
+            "question": "What is Flutter?",
+            "options": ["SDK", "Language", "IDE", "DB"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "id": "t2",
+            "question": "Flutter uses which language?",
+            "options": ["Java", "Dart", "Kotlin", "Swift"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "t3",
+            "question": "Flutter is developed by?",
+            "options": ["Apple", "Facebook", "Google", "Microsoft"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "t7",
+            "question": "What is a Widget in Flutter?",
+            "options": ["UI element", "Database", "API", "Server"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "id": "t8",
+            "question": "Which widget is used for layout in Flutter?",
+            "options": ["Container", "Scaffold", "Row", "All of these"],
+            "correctAnswerIndex": 3
+          }
+        ]
+      },
+      {
+        "id": "tech_java",
+        "name": "java",
+        "questions": [
+          {
+            "id": "t4",
+            "question": "Java is?",
+            "options": ["OS", "Programming Language", "Database", "Browser"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "t5",
+            "question": "Java supports?",
+            "options": ["OOP", "Only Procedural", "Only Functional", "None"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "id": "t6",
+            "question": "Java code runs on?",
+            "options": ["Compiler", "JVM", "Kernel", "RAM"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "historical",
+    "subCategories": [
+      {
+        "id": "hist_indian",
+        "name": "indian_history",
+        "questions": [
+          {
+            "id": "h1",
+            "question": "Who was first Prime Minister of India?",
+            "options": ["Gandhi", "Nehru", "Patel", "Bose"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "h2",
+            "question": "India got independence in?",
+            "options": ["1945", "1946", "1947", "1950"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "h3",
+            "question": "Who built Taj Mahal?",
+            "options": ["Akbar", "Shah Jahan", "Babur", "Humayun"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "gk",
+    "subCategories": [
+      {
+        "id": "gk_world",
+        "name": "world_gk",
+        "questions": [
+          {
+            "id": "g1",
+            "question": "Largest ocean?",
+            "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "g2",
+            "question": "Capital of USA?",
+            "options": ["New York", "Washington DC", "Los Angeles", "Chicago"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "g3",
+            "question": "Which planet is known as Red Planet?",
+            "options": ["Earth", "Mars", "Venus", "Jupiter"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "gk_india",
+        "name": "india gk",
+        "questions": [
+          {
+            "id": "g4",
+            "question": "Capital of India?",
+            "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "g5",
+            "question": "National animal of India?",
+            "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "g6",
+            "question": "Indian flag has how many colors?",
+            "options": ["2", "3", "4", "5"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "gk_sports",
+        "name": "sports",
+        "questions": [
+          {
+            "id": "g7",
+            "question": "Cricket team has how many players?",
+            "options": ["9", "10", "11", "12"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "g8",
+            "question": "Olympics held after how many years?",
+            "options": ["2", "3", "4", "5"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "g9",
+            "question": "Football is also called?",
+            "options": ["Soccer", "Rugby", "Tennis", "Baseball"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "maths",
+    "subCategories": [
+      {
+        "id": "math_basic",
+        "name": "basic_math",
+        "questions": [
+          {
+            "id": "m1",
+            "question": "5 + 3 = ?",
+            "options": ["5", "7", "8", "9"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "m2",
+            "question": "10 - 4 = ?",
+            "options": ["5", "6", "7", "8"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "m3",
+            "question": "2 x 3 = ?",
+            "options": ["5", "6", "7", "8"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "math_advanced",
+        "name": "advanced math",
+        "questions": [
+          {
+            "id": "m4",
+            "question": "Square of 12?",
+            "options": ["124", "144", "154", "164"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "m5",
+            "question": "15 ÷ 3 = ?",
+            "options": ["3", "4", "5", "6"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "m6",
+            "question": "Value of π (approx)?",
+            "options": ["2.14", "3.14", "4.13", "3.41"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      },
+      {
+        "id": "math_reasoning",
+        "name": "reasoning",
+        "questions": [
+          {
+            "id": "m7",
+            "question": "Next number: 2, 4, 6, ?",
+            "options": ["7", "8", "9", "10"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "m8",
+            "question": "Odd one out?",
+            "options": ["2", "4", "6", "9"],
+            "correctAnswerIndex": 3
+          },
+          {
+            "id": "m9",
+            "question": "10 x 0 = ?",
+            "options": ["0", "10", "1", "100"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "science",
+    "subCategories": [
+      {
+        "id": "sci_physics",
+        "name": "physics",
+        "questions": [
+          {
+            "id": "s1",
+            "question": "Unit of Force?",
+            "options": ["Pascal", "Newton", "Joule", "Watt"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "s2",
+            "question": "Speed = ?",
+            "options": ["Distance/Time", "Time/Distance", "Force/Mass", "Mass/Volume"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "id": "s3",
+            "question": "Gravity is?",
+            "options": ["Force", "Energy", "Matter", "Light"],
+            "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "id": "sci_chemistry",
+        "name": "chemistry",
+        "questions": [
+          {
+            "id": "s4",
+            "question": "Water formula is?",
+            "options": ["CO2", "H2O", "O2", "NaCl"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "s5",
+            "question": "pH value of pure water?",
+            "options": ["5", "6", "7", "8"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "s6",
+            "question": "Gas used in balloons?",
+            "options": ["Oxygen", "Hydrogen", "Helium", "Nitrogen"],
+            "correctAnswerIndex": 2
+          }
+        ]
+      },
+      {
+        "id": "sci_biology",
+        "name": "biology",
+        "questions": [
+          {
+            "id": "s7",
+            "question": "Human heart has how many chambers?",
+            "options": ["2", "3", "4", "5"],
+            "correctAnswerIndex": 2
+          },
+          {
+            "id": "s8",
+            "question": "Plants make food by?",
+            "options": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "s9",
+            "question": "Blood is pumped by?",
+            "options": ["Lungs", "Brain", "Heart", "Kidney"],
+            "correctAnswerIndex": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "agriculture",
+    "subCategories": [
+      {
+        "id": "agri_crops",
+        "name": "crops",
+        "questions": [
+          {
+            "id": "a1",
+            "question": "Rice grows best in?",
+            "options": ["Dry soil", "Flooded fields", "Desert", "Snow"],
+            "correctAnswerIndex": 1
+          },
+          {
+            "id": "a2",
+            "question": "Wheat is grown in?",
+            "options": ["Winter season", "Rainy season", "Summer only", "All seasons"],
+            "correctAnswerIndex": 0
+          },
+          {
+            "id": "a3",
+            "question": "Green Revolution relates to?",
+            "options": ["Industry", "Agriculture", "Space", "IT"],
+            "correctAnswerIndex": 1
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

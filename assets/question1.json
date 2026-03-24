@@ -1,0 +1,155 @@
+[
+  {
+    "category": "technical",
+    "subCategories": [
+      {
+        "id": "tech_flutter",
+        "name": "flutter",
+        "questions": [
+          { "id": "t1", "question": "What is Flutter?", "options": ["SDK", "Language", "IDE", "DB"], "correctAnswerIndex": 0 },
+          { "id": "t2", "question": "Flutter uses which language?", "options": ["Java", "Dart", "Kotlin", "Swift"], "correctAnswerIndex": 1 },
+          { "id": "t3", "question": "Flutter is developed by?", "options": ["Apple", "Facebook", "Google", "Microsoft"], "correctAnswerIndex": 2 },
+          { "id": "t7", "question": "What is a Widget in Flutter?", "options": ["UI element", "Database", "API", "Server"], "correctAnswerIndex": 0 },
+          { "id": "t8", "question": "Which widget is used for layout in Flutter?", "options": ["Container", "Scaffold", "Row", "All of these"], "correctAnswerIndex": 3 },
+
+          { "id": "t9", "question": "Which widget provides app structure?", "options": ["Scaffold", "Container", "Row", "Text"], "correctAnswerIndex": 0 },
+          { "id": "t10", "question": "Hot reload is used for?", "options": ["Restart app", "Update UI instantly", "Build APK", "Debug only"], "correctAnswerIndex": 1 },
+          { "id": "t11", "question": "Which layout is horizontal?", "options": ["Column", "Row", "Stack", "ListView"], "correctAnswerIndex": 1 },
+          { "id": "t12", "question": "Which widget scrolls?", "options": ["Column", "Row", "ListView", "Text"], "correctAnswerIndex": 2 },
+          { "id": "t13", "question": "Flutter apps are compiled to?", "options": ["Native code", "HTML", "Java bytecode", "None"], "correctAnswerIndex": 0 }
+        ]
+      },
+      {
+        "id": "tech_java",
+        "name": "java",
+        "questions": [
+          { "id": "t4", "question": "Java is?", "options": ["OS", "Programming Language", "Database", "Browser"], "correctAnswerIndex": 1 },
+          { "id": "t5", "question": "Java supports?", "options": ["OOP", "Only Procedural", "Only Functional", "None"], "correctAnswerIndex": 0 },
+          { "id": "t6", "question": "Java code runs on?", "options": ["Compiler", "JVM", "Kernel", "RAM"], "correctAnswerIndex": 1 },
+
+          { "id": "t14", "question": "Java is platform?", "options": ["Dependent", "Independent", "None", "Hardware"], "correctAnswerIndex": 1 },
+          { "id": "t15", "question": "JDK stands for?", "options": ["Java Dev Kit", "Java Development Kit", "Java Design Kit", "None"], "correctAnswerIndex": 1 },
+          { "id": "t16", "question": "Which keyword creates object?", "options": ["new", "class", "void", "static"], "correctAnswerIndex": 0 },
+          { "id": "t17", "question": "Java uses?", "options": ["Compiler only", "Interpreter only", "Both", "None"], "correctAnswerIndex": 2 },
+          { "id": "t18", "question": "Default value of int?", "options": ["0", "1", "null", "-1"], "correctAnswerIndex": 0 },
+          { "id": "t19", "question": "Which is loop?", "options": ["if", "for", "class", "break"], "correctAnswerIndex": 1 },
+          { "id": "t20", "question": "Main method return type?", "options": ["int", "void", "String", "double"], "correctAnswerIndex": 1 }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "historical",
+    "subCategories": [
+      {
+        "id": "hist_indian",
+        "name": "Indian History",
+        "questions": [
+          { "id": "h1", "question": "Who was first Prime Minister of India?", "options": ["Gandhi", "Nehru", "Patel", "Bose"], "correctAnswerIndex": 1 },
+          { "id": "h2", "question": "India got independence in?", "options": ["1945", "1946", "1947", "1950"], "correctAnswerIndex": 2 },
+          { "id": "h3", "question": "Who built Taj Mahal?", "options": ["Akbar", "Shah Jahan", "Babur", "Humayun"], "correctAnswerIndex": 1 },
+
+          { "id": "h4", "question": "Who discovered India?", "options": ["Columbus", "Vasco da Gama", "Cook", "None"], "correctAnswerIndex": 1 },
+          { "id": "h5", "question": "National anthem written by?", "options": ["Tagore", "Gandhi", "Nehru", "Tilak"], "correctAnswerIndex": 0 },
+          { "id": "h6", "question": "Who was Iron Man?", "options": ["Patel", "Nehru", "Bose", "Gandhi"], "correctAnswerIndex": 0 },
+          { "id": "h7", "question": "Capital of Mughal empire?", "options": ["Delhi", "Agra", "Lahore", "All"], "correctAnswerIndex": 3 },
+          { "id": "h8", "question": "Who started Quit India?", "options": ["Nehru", "Gandhi", "Bose", "Tilak"], "correctAnswerIndex": 1 },
+          { "id": "h9", "question": "Who was last Mughal emperor?", "options": ["Akbar", "Bahadur Shah Zafar", "Aurangzeb", "None"], "correctAnswerIndex": 1 },
+          { "id": "h10", "question": "1857 revolt called?", "options": ["War", "Mutiny", "Revolution", "All"], "correctAnswerIndex": 3 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "gk",
+    "subCategories": [
+      {
+        "id": "gk_world",
+        "name": "World Gk",
+        "questions": [
+          { "id": "g1", "question": "Largest ocean?", "options": ["Atlantic", "Indian", "Pacific", "Arctic"], "correctAnswerIndex": 2 },
+          { "id": "g2", "question": "Capital of USA?", "options": ["New York", "Washington DC", "Los Angeles", "Chicago"], "correctAnswerIndex": 1 },
+          { "id": "g3", "question": "Red planet?", "options": ["Earth", "Mars", "Venus", "Jupiter"], "correctAnswerIndex": 1 },
+
+          { "id": "g4", "question": "Largest country?", "options": ["USA", "China", "Russia", "India"], "correctAnswerIndex": 2 },
+          { "id": "g5", "question": "Smallest country?", "options": ["Nepal", "Bhutan", "Vatican", "Maldives"], "correctAnswerIndex": 2 },
+          { "id": "g6", "question": "UN HQ?", "options": ["London", "NY", "Paris", "Delhi"], "correctAnswerIndex": 1 },
+          { "id": "g7", "question": "Currency of Japan?", "options": ["Dollar", "Yen", "Won", "Euro"], "correctAnswerIndex": 1 },
+          { "id": "g8", "question": "Mount Everest in?", "options": ["India", "China", "Nepal", "Bhutan"], "correctAnswerIndex": 2 },
+          { "id": "g9", "question": "Fastest animal?", "options": ["Cheetah", "Lion", "Tiger", "Dog"], "correctAnswerIndex": 0 },
+          { "id": "g10", "question": "Largest desert?", "options": ["Sahara", "Gobi", "Thar", "Arctic"], "correctAnswerIndex": 0 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "maths",
+    "subCategories": [
+      {
+        "id": "math_basic",
+        "name": "Basic Math",
+        "questions": [
+          { "id": "m1", "question": "5+3=?", "options": ["5", "7", "8", "9"], "correctAnswerIndex": 2 },
+          { "id": "m2", "question": "10-4=?", "options": ["5", "6", "7", "8"], "correctAnswerIndex": 1 },
+          { "id": "m3", "question": "2x3=?", "options": ["5", "6", "7", "8"], "correctAnswerIndex": 1 },
+
+          { "id": "m4", "question": "9+1=?", "options": ["9", "10", "11", "12"], "correctAnswerIndex": 1 },
+          { "id": "m5", "question": "6x2=?", "options": ["10", "12", "14", "16"], "correctAnswerIndex": 1 },
+          { "id": "m6", "question": "15-5=?", "options": ["5", "10", "15", "20"], "correctAnswerIndex": 1 },
+          { "id": "m7", "question": "3x3=?", "options": ["6", "9", "12", "3"], "correctAnswerIndex": 1 },
+          { "id": "m8", "question": "20/4=?", "options": ["2", "4", "5", "6"], "correctAnswerIndex": 2 },
+          { "id": "m9", "question": "7+2=?", "options": ["8", "9", "10", "11"], "correctAnswerIndex": 1 },
+          { "id": "m10", "question": "8-3=?", "options": ["3", "4", "5", "6"], "correctAnswerIndex": 2 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "science",
+    "subCategories": [
+      {
+        "id": "sci_physics",
+        "name": "Physics",
+        "questions": [
+          { "id": "s1", "question": "Unit of Force?", "options": ["Pascal", "Newton", "Joule", "Watt"], "correctAnswerIndex": 1 },
+          { "id": "s2", "question": "Speed=?", "options": ["D/T", "T/D", "F/M", "M/V"], "correctAnswerIndex": 0 },
+          { "id": "s3", "question": "Gravity is?", "options": ["Force", "Energy", "Matter", "Light"], "correctAnswerIndex": 0 },
+
+          { "id": "s4", "question": "Unit of energy?", "options": ["Newton", "Joule", "Watt", "Volt"], "correctAnswerIndex": 1 },
+          { "id": "s5", "question": "Light speed?", "options": ["3e8", "3e6", "3e5", "3e7"], "correctAnswerIndex": 0 },
+          { "id": "s6", "question": "SI unit of mass?", "options": ["Gram", "Kg", "Ton", "Mg"], "correctAnswerIndex": 1 },
+          { "id": "s7", "question": "Heat is?", "options": ["Energy", "Force", "Mass", "Light"], "correctAnswerIndex": 0 },
+          { "id": "s8", "question": "Electric unit?", "options": ["Ampere", "Volt", "Ohm", "All"], "correctAnswerIndex": 3 },
+          { "id": "s9", "question": "Magnet attracts?", "options": ["Wood", "Iron", "Plastic", "Paper"], "correctAnswerIndex": 1 },
+          { "id": "s10", "question": "Sound travels in?", "options": ["Solid", "Liquid", "Gas", "All"], "correctAnswerIndex": 3 }
+        ]
+      }
+    ]
+  },
+
+  {
+    "category": "agriculture",
+    "subCategories": [
+      {
+        "id": "agri_crops",
+        "name": "Crops",
+        "questions": [
+          { "id": "a1", "question": "Rice grows best in?", "options": ["Dry", "Flooded", "Desert", "Snow"], "correctAnswerIndex": 1 },
+          { "id": "a2", "question": "Wheat season?", "options": ["Winter", "Rainy", "Summer", "All"], "correctAnswerIndex": 0 },
+          { "id": "a3", "question": "Green Revolution?", "options": ["Industry", "Agriculture", "IT", "Space"], "correctAnswerIndex": 1 },
+
+          { "id": "a4", "question": "Soil needed for wheat?", "options": ["Black", "Alluvial", "Red", "Sand"], "correctAnswerIndex": 1 },
+          { "id": "a5", "question": "Fertilizer type?", "options": ["Organic", "Chemical", "Both", "None"], "correctAnswerIndex": 2 },
+          { "id": "a6", "question": "Irrigation means?", "options": ["Watering", "Harvest", "Cutting", "Drying"], "correctAnswerIndex": 0 },
+          { "id": "a7", "question": "Kharif crops?", "options": ["Rice", "Wheat", "Barley", "None"], "correctAnswerIndex": 0 },
+          { "id": "a8", "question": "Rabi crops?", "options": ["Rice", "Wheat", "Maize", "Cotton"], "correctAnswerIndex": 1 },
+          { "id": "a9", "question": "Crop rotation?", "options": ["Same crop", "Different crops", "No crop", "None"], "correctAnswerIndex": 1 },
+          { "id": "a10", "question": "Tractor used for?", "options": ["Ploughing", "Cooking", "Storage", "None"], "correctAnswerIndex": 0 }
+        ]
+      }
+    ]
+  }
+]
