@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDOzSEggpBAiWZKTTywOARQyMcnNpX8Z1s</string>
+	<string>AIzaSyA9evIIGbbIXaHChSTFCke-TIkmpm6NMOU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>313069740025</string>
+	<string>839313704474</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.milanmop.pm</string>
+	<string>com.kalyan555.puzzlegame</string>
 	<key>PROJECT_ID</key>
-	<string>kalyan-567-780a8</string>
+	<string>kalayan555-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>kalyan-567-780a8.firebasestorage.app</string>
+	<string>kalayan555-app.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:313069740025:ios:11e16aac1d2fd3b3112728</string>
+	<string>1:839313704474:ios:d01a7fe2615570dc9533a3</string>
 </dict>
 </plist>
